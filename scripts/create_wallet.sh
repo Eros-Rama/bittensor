@@ -14,6 +14,8 @@ echo "~/.bittensor/wallets/default/coldkeypub.txt"
 
 
 
+
+
 cat ~/.bittensor/wallets/default/coldkeypub.txt
 echo "~/.bittensor/wallets/default/hotkeys/default"
 
