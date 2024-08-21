@@ -12,6 +12,8 @@ abort() {
   exit 1
 }
 
+
+
 getc() {
   local save_state
   save_state=$(/bin/stty -g)
