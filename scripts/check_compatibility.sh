@@ -16,6 +16,9 @@ NC='\033[0m' # No Color
 
 
 
+
+
+
 check_compatibility() {
     all_supported=0
 
