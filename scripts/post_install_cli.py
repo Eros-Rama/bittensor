@@ -13,6 +13,9 @@ def post_install():
     else:
         print("Unsupported shell for autocompletion.")
         return
+    
+
+    
 
     # Generate the completion script
     completion_script = subprocess.check_output(
