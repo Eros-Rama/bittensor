@@ -11,6 +11,9 @@ def post_install():
     elif "zsh" in shell:
         shell_config = "~/.zshrc"
     else:
+        
+
+        
         print("Unsupported shell for autocompletion.")
         return
 
