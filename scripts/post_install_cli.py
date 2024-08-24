@@ -15,6 +15,8 @@ def post_install():
 
         
         print("Unsupported shell for autocompletion.")
+
+        
         return
 
     # Generate the completion script
